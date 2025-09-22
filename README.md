@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'am M. Halim Razyid Kurniawan  
 
-<!--
-**MHalimRazyidKurniawan/MHalimRazyidKurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm passionate about **Laprak, and sleep**.  
+Here, you'll find some of my projects, experiments, and learning journeys.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- 🎓 Currently learning: *Matfis, MAG, Midlaner*  
+- 💡 Interested in: *Venita, Mie ayamn, Laprak*  
+- 🎯 Goals for this year: *Finish OPMG*  
+- ⚡ Fun fact: *I Like Watch Windah Basudara Stream*  
+
+---
+
+- **Other skills:** Video Editing, Photography  
+
+---
+
+## 📫 Connect with Me    
+- 📷 Instagram: [@miepangzyid](https://instagram.com/miepangzyid)  
+- ✉️ Email: mhalimrazyidkurniawan@mail.ugm.ac.id
+
+---
+
+⭐️ From [M. Halim Razyid Kurniawan](https://github.com/MHalimRazyidKurniawan)
